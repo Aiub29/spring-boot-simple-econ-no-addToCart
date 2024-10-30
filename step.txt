@@ -1,0 +1,7 @@
+1: Project Setup
+2: Define the Project Structure
+3: Define Entities
+4: Set Up Repositories
+5: Create Service Layer
+6: Create Controllers
+7: Test the Application
